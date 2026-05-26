@@ -1,12 +1,12 @@
 #  Car Purchase Prediction using Logistic Regression
-This model can help businesses: - Identify high probability customers - Improve marketing efficiency - Reduce wasted advertising spend
+I built this model  to can help businesses: - Identify high probability customers - Improve marketing efficiency - Reduce wasted advertising spend
 ## Project Overview
-This project uses a Logistic Regression model to predict whether an individual will purchase a car based on features such as age and salary.
-The goal is to demonstrate how machine learning can be applied to real-world business problems like customer targeting and marketing.
+In this  project I used a Logistic Regression model to predict whether an individual will purchase a car based on features such as age and salary.
+My goal is to demonstrate how machine learning can be applied to real-world business problems like customer targeting and marketing.
 ##  Problem Statement
 Businesses often want to identify potential customers who are more likely to purchase a product. In this case, we aim to predict whether a customer will buy a car based on their demographic information.
 ## Approach
-The following steps were taken:
+I followed the folllowing steps:
 
 1. Data loading and exploration  
 2. Data preprocessing (cleaning and feature scaling)  
